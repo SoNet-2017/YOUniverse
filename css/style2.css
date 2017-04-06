@@ -63,11 +63,11 @@ a.button{
     margin-left: 113px;
     right: 9%;
     margin-right: -20px;
-    top: 85px;
+    top: 18%;
     margin-top: 136px;
     position: fixed;
     background: rgb(240, 237, 237);
-    height: 67%;
+    height: 60%;
     overflow-y: scroll;
 }
 
@@ -76,7 +76,7 @@ a.button{
     margin-left: 113px;
     right: 9%;
     margin-right: -20px;
-    top: 220px;;
+    top: 40%;
     margin-top: 136px;
     position: fixed;
     background: rgb(240, 237, 237);
