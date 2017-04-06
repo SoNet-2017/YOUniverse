@@ -66,7 +66,7 @@ a.button{
     top: 85px;
     margin-top: 136px;
     position: fixed;
-    background: rgba(255, 237, 237, 1);
+    background: rgb(240, 237, 237);
     height: 67%;
     overflow-y: scroll;
 }
@@ -79,7 +79,7 @@ a.button{
     top: 220px;;
     margin-top: 136px;
     position: fixed;
-    background: rgba(255, 237, 237, 1);
+    background: rgb(240, 237, 237);
     height: 37%;
     overflow-y: scroll;
 
