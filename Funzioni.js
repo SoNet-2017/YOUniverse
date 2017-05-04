@@ -1,5 +1,5 @@
 /**
- * Created by Mattia on 04/04/2017.
+ * Created by bogge on 04/04/2017.
  */
 window.onload = function(e) {
     var opened = false;
