@@ -3,7 +3,7 @@
  */
 window.onload = function(e) {
     var opened = false;
-    console.log(opened);
+
 
     var menu = document.getElementById("menu");
     var bottone= document.getElementById("myverycoolbutton");
@@ -23,7 +23,7 @@ window.onload = function(e) {
             bottone.className = "bottone"
             wrapper.className="abbassa"
             opened = true;
-            console.log(opened);
+
         }
     };
 
