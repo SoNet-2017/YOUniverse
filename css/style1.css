@@ -60,7 +60,7 @@ a.button{
 
 .wrapper{
     left: 20%;
-    margin-left: 113px;
+    margin-left: 43px;
     right: 5%;
     margin-right: -20px;
     top: 200px;
@@ -87,8 +87,9 @@ a.button{
 
 nav{
     display: block;
-    left: 5%;
-    right: 75%;
+    left: 2%;
+    margin-left: 30px;
+    right: 78%;
     position: fixed;
     text-align: justify;
 
