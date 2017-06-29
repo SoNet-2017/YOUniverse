@@ -1,7 +1,7 @@
 body {
     font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #666;
-    background: #eae6d1;
+    color: #000000;
+    background: #000000;
     width:100%;
 }
 
@@ -14,7 +14,7 @@ header {
     right: 0;
     width: 100%;
     text-align: center;
-    background: #4276b6;
+    background: #731c71;
     box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
     z-index: 99;
     min-height: 76px;
@@ -41,6 +41,7 @@ header {
     height: 36px;
     width: 36px;
     float: right;
+
 }
 
 a.button{
@@ -106,7 +107,7 @@ nav ul li{
 }
 
 nav ul a{
-    color: #666666;
+    color: #ffffff;
 }
 
 nav ul a:hover{
@@ -114,6 +115,7 @@ nav ul a:hover{
 }
 
 section{
+    background-color: rgba(40, 27, 123, 0.8);
     padding-left: 50px;
     padding-right: 30px;
     padding-top: 30px;
@@ -136,6 +138,7 @@ h3, h4, h5, h6 {
 
 h3 {
     font-size: 18px;
+colorrgb(228, 226, 226);
 }
 
 
@@ -143,7 +146,8 @@ th {
     text-align: left;
     padding: 5px 10px;
     border-bottom: 1px solid #e5e5e5;
-    color: #444;
+    color: #000;
+    font-weight: bold;
 }
 
 td {
